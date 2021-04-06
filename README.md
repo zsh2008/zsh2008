@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zsh2008
+- 👀 I’m interested in python, java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on automate testing for api or system
+- 📫 EMAIL:  zsh2008@yeah.net
